@@ -40,7 +40,6 @@
         <li>★<mark>塩</mark> 大さじ1/2</li>
         <li>あれば★<mark>パプリカパウダー</mark> 小さじ１</li>
       </ul>
-      </span>
     </div>
     <div class="col-12 col-md-4 border border-5 border-primary p-5">
       <h2 class="text-decoration-underline">作り方</h2>

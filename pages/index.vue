@@ -5,7 +5,7 @@ definePageMeta({
   description: 'Quickly get a project started with any of our examples ranging from using parts of the framework to custom components and layouts.'
 })
 </script>
-<template>あいうえお
+<template>僕は田和だよ！？
       
   <Container margin="t-5">
     <HeroHeadingsDescription />
